@@ -9,7 +9,7 @@ const Home = () => {
     <div className="food-preview-block">
       <div className="food-preview-header">
         <p>Food Recipes</p>
-        <p><a data-toggle="modal" data-target="#myModal" href="#">Add Recipe / Save Recipe</a></p>
+        <p><a data-toggle="modal" data-target="#myModal" href="#">Add Recipe / Save Recipes</a></p>
       </div>
       <Recipes />
     </div>
